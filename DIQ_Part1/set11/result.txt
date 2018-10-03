@@ -1,0 +1,55 @@
+ROBOTEX: An Autonomous Mobile
+Robot for Precise Surveying
+
+ 
+
+ 
+
+Laver LEB . < « \
+mapuler ar e
+_ * ‘
+fustin, Te e71s. iia
+Abetract. The Rote Tex 9 *: 2 a at aa ta z
+exact CAD representation ws £
+teparts on the “e atas : i
+me desetibed. w er 2 haus
+€ accuracy, aed anpor tie
+images acqu eet bop the - ade Sean
+SQrveyrngs 2Fe sQOoweT ana 2 in
+ke techaques deveioped here 54 ‘ ‘
+ag, scene 2 % * &
+i Introduction
+This paper describes Rete Tex. « ‘
+3-D maps of ite environment. The goa
+to aviomatica.y expire 4 Guiding * : 2 ,
+Thu CAD representation 4 aici He a ee 4a ‘
+generate
+Traditionally, the tasks of 4 robot's perception « :
+the free space, and estimate the ¢ f the -
+ie on building a useful 3D descr f the world. O }
+environment differs primarily from representations used 5
+
+L. It must concentrate on semantically significant teat
+
+9 it must be more accurate than is strictly necessary
+
+To satisfy the first constraint, we chose to concentrate on straight edges «
+ular orientations in the 3-D scene. Typically, there are three prominent 3-D ta §
+in indoor scenes and outdoor urban scenes: the vertical, and tw rizontal orier §
+perpendicular to each other. Our approach considers only polyhedral objects w such
+
+edges. This assumption holds for most large architectural features such as
+ways, floors, and ceilings. The second constraint, accuracy, has mult
+for both the hardware and the software of the robot
+
+was supported in part by the DoD Joint Services Electronics Program through the
+
+ 
+
+ 
+
+ 
+
+*This research
+Air Fotce Office of Scientific Research (AFSC) Contract F49620-89-C-0044, and in part by the Army
+Research Office under contract DAALO3-91-G-0050

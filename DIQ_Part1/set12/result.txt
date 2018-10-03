@@ -1,0 +1,65 @@
+Real-Time Control of a Virtual Human Using Minimal Sensors
+
+ 
+
+$
+
+Computer Graphic
+Co
+
+Department of
+
+1 Abstract
+
+We track, in real-time, the position and postur
+human body, using a minimal number of 6 DOF sen
+sors to capture full body stancing postures We use
+4 sensors to create @ good approximation of a human
+operator's position and posture, and map it on
+atticulated computer graphics hurnan model. The
+unsensed joints are positioned by a fast inverse kine
+matics algorithm. Our goal is to realistically recreate
+human postures while minimally encumbering the op
+erator.
+
+ 
+
+to out
+
+2 Background
+
+Ideally, a virtual environment interface should be able
+to measure and recreate a participant's posture exact
+ly. Rather than the traditional “disembodied hand”
+approach, we would like to generate a complete, real-
+jstically postured human image. However, the equip-
+ment needed to accurately track every body segment
+(or joint ange) of a hurnan is costly and curnbersome
+We face several! questions: how closely must the vir-
+tual human’s posture match the operator's, and how
+much information do we need to achieve this degree
+of realism?
+
+As in other areas of VR, the degree of realism nec-
+essary depends greatly on the tasks we would like
+
+to perform [11]. We have concentrated on creating
+
+an interface that will allow a human participant to
+perform basic tasks, using a minimal number of sen-
+sors to derive feasible, reasonably accurate postures.
+Three pieces of information are essential for our pos-
+ture reconstruction algorithm: the participant's view
+yector, center of mass, and the location of the end-
+
+effectors the participant will use to interact with the
+
+snmites
+
+ 
+
+Badler
+Hollie
+eKiet
+
+Figure 1: Sensor Placement and Support Polygon

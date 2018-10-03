@@ -8,7 +8,7 @@ def process(file):
     tokens = word_tokenize(raw)
     words = [w.lower() for w in tokens]
 
-    porter = nltk.PorterStemmer()  # or nltk.RegexpStemmer('ing$|s$|e$')
+    porter = nltk.PorterStemmer()
     stemmed_tokens = [porter.stem(t) for t in words]
 
     # Removing stop words
