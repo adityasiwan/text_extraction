@@ -9,13 +9,11 @@ import os
 set_int = int(input("Enter the set number to extract text from (eg. 5) : "))
 set = "set" + str(set_int)
 path = "/DIQ_Part1/" + set + "/"
-initial_cwd = os.getcwd()
-os.chdir(initial_cwd + path)
-temp1 = os.getcwd()
-temp = os.listdir()
-file_name = max(temp, key=len)
+initial_current_directory = os.getcwd()
+os.chdir(initial_current_directory + path)
+file_name = max(os.listdir(), key=len)
 final_path = os.getcwd()+"/"+file_name
-output = temp1
+output = os.getcwd()
 
 # Read image with opencv
 img = cv2.imread(final_path)
