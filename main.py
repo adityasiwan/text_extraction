@@ -9,8 +9,8 @@ import os
 set_int = int(input("Enter the set number to extract text from (eg. 5) : "))
 set = "set" + str(set_int)
 path = "/DIQ_Part1/" + set + "/"
-x = os.getcwd()
-os.chdir(x+path)
+initial_cwd = os.getcwd()
+os.chdir(initial_cwd + path)
 temp1 = os.getcwd()
 temp = os.listdir()
 file_name = max(temp, key=len)
@@ -43,8 +43,7 @@ text_file.close()
 pred_result_file_path = os.getcwd() + "/" + "result.txt"
 os.chdir(os.getcwd()+"/GTOCR/")
 true_result_file_path = os.getcwd() + "/" + max(os.listdir(), key=len)
-# print(pred_result_file_path)
-# print(true_result_file_path)
+
 print("\n......................................")
 print("......................................")
 print("......................................\n")
