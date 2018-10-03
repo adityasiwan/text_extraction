@@ -2,7 +2,262 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c70d8f40-6339-41d9-ba18-30ff5b3e61a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-42-48_976.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-42-59_923.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-42-59_923.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-15_349.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-15_349.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-24_928.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-24_928.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-33_164.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-33_164.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-50_544.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-50_544.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-58_587.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/2012-04-16_17-43-58_587.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/_DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/eval_2012-04-16_17-42-48_976.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/eval_2012-04-16_17-42-59_923.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/eval_2012-04-16_17-43-15_349.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/eval_2012-04-16_17-43-24_928.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/eval_2012-04-16_17-43-33_164.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/eval_2012-04-16_17-43-50_544.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set1/eval_2012-04-16_17-43-58_587.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-44-56_892.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-09_187.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-09_187.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-26_789.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-26_789.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-34_102.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-34_102.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-42_362.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-42_362.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-49_303.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-45-49_303.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-46-04_86.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/2012-04-19_17-46-04_86.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/eval_2012-04-19_17-44-56_892.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/eval_2012-04-19_17-45-09_187.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/eval_2012-04-19_17-45-26_789.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/eval_2012-04-19_17-45-34_102.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/eval_2012-04-19_17-45-42_362.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/eval_2012-04-19_17-45-49_303.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set10/eval_2012-04-19_17-46-04_86.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-25-12_320.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-25-41_781.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-25-41_781.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-25-50_261.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-25-50_261.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-25-58_456.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-25-58_456.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-26-04_749.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-26-04_749.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-26-18_334.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-26-18_334.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-26-35_416.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/2012-04-19_18-26-35_416.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/eval_2012-04-19_18-25-12_320.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/eval_2012-04-19_18-25-41_781.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/eval_2012-04-19_18-25-50_261.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/eval_2012-04-19_18-25-58_456.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/eval_2012-04-19_18-26-04_749.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/eval_2012-04-19_18-26-18_334.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set11/eval_2012-04-19_18-26-35_416.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-07_716.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-16_878.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-16_878.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-24_882.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-24_882.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-40_138.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-40_138.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-57_992.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-27-57_992.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-28-23_54.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-28-23_54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-28-28_593.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/2012-04-19_18-28-28_593.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/eval_2012-04-19_18-27-07_716.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/eval_2012-04-19_18-27-16_878.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/eval_2012-04-19_18-27-24_882.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/eval_2012-04-19_18-27-40_138.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/eval_2012-04-19_18-27-57_992.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/eval_2012-04-19_18-28-23_54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set12/eval_2012-04-19_18-28-28_593.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-19-10_631.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-19-21_495.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-19-21_495.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-19-33_502.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-19-33_502.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-20-25_136.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-20-25_136.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-20-32_300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-20-32_300.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-20-41_274.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-20-41_274.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-21-01_51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/2012-04-23_12-21-01_51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/eval_2012-04-23_12-19-10_631.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/eval_2012-04-23_12-19-21_495.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/eval_2012-04-23_12-19-33_502.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/eval_2012-04-23_12-20-25_136.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/eval_2012-04-23_12-20-32_300.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/eval_2012-04-23_12-20-41_274.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set13/eval_2012-04-23_12-21-01_51.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-32-27_295.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-33-11_49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-33-11_49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-33-23_805.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-33-23_805.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-33-38_188.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-33-38_188.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-34-12_68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-34-12_68.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-41-11_615.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-41-11_615.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-41-38_31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-41-38_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-42-11_162.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/2012-04-16_17-42-11_162.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/_DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/eval_2012-04-16_17-32-27_295.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/eval_2012-04-16_17-33-11_49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/eval_2012-04-16_17-33-23_805.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/eval_2012-04-16_17-33-38_188.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/eval_2012-04-16_17-34-12_68.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/eval_2012-04-16_17-41-11_615.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/eval_2012-04-16_17-41-38_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set2/eval_2012-04-16_17-42-11_162.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-35-00_212.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-35-14_482.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-35-14_482.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-35-31_279.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-35-31_279.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-35-56_542.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-35-56_542.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-36-09_707.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-36-09_707.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-40-24_607.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/2012-04-16_17-40-24_607.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/_DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/eval_2012-04-16_17-35-00_212.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/eval_2012-04-16_17-35-14_482.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/eval_2012-04-16_17-35-31_279.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/eval_2012-04-16_17-35-56_542.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/eval_2012-04-16_17-36-09_707.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set3/eval_2012-04-16_17-40-24_607.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-37-56_610.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-38-16_233.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-38-16_233.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-38-29_990.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-38-29_990.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-38-59_945.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-38-59_945.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-39-33_831.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-39-33_831.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-39-56_765.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/2012-04-17_17-39-56_765.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/_DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/eval_2012-04-17_17-37-56_610.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/eval_2012-04-17_17-38-16_233.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/eval_2012-04-17_17-38-29_990.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/eval_2012-04-17_17-38-59_945.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/eval_2012-04-17_17-39-33_831.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set4/eval_2012-04-17_17-39-56_765.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-40-31_436.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-40-52_152.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-40-52_152.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-41-05_486.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-41-05_486.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-41-15_781.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-41-15_781.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-41-36_883.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-41-36_883.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-41-50_376.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/2012-04-17_17-41-50_376.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/_DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/eval_2012-04-17_17-40-31_436.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/eval_2012-04-17_17-40-52_152.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/eval_2012-04-17_17-41-05_486.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/eval_2012-04-17_17-41-15_781.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/eval_2012-04-17_17-41-36_883.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set5/eval_2012-04-17_17-41-50_376.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-42-52_62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-06_362.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-06_362.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-29_648.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-29_648.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-38_263.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-38_263.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-49_437.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-49_437.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-56_726.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-44-56_726.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-45-13_112.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/2012-04-17_17-45-13_112.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/_DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/eval_2012-04-17_17-42-52_62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/eval_2012-04-17_17-44-06_362.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/eval_2012-04-17_17-44-29_648.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/eval_2012-04-17_17-44-38_263.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/eval_2012-04-17_17-44-49_437.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/eval_2012-04-17_17-44-56_726.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set6/eval_2012-04-17_17-45-13_112.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-47-42_435.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-48-00_146.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-48-00_146.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-48-10_388.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-48-10_388.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-48-28_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-48-28_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-48-42_273.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-48-42_273.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-54-01_818.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/2012-04-17_17-54-01_818.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/eval_2012-04-17_17-47-42_435.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/eval_2012-04-17_17-48-00_146.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/eval_2012-04-17_17-48-10_388.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/eval_2012-04-17_17-48-28_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/eval_2012-04-17_17-48-42_273.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set7/eval_2012-04-17_17-54-01_818.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-54-40_273.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-01_268.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-01_268.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-10_582.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-10_582.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-20_994.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-20_994.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-32_224.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-32_224.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-41_544.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-55-41_544.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-56-18_811.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/2012-04-17_17-56-18_811.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/eval_2012-04-17_17-54-40_273.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/eval_2012-04-17_17-55-01_268.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/eval_2012-04-17_17-55-10_582.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/eval_2012-04-17_17-55-20_994.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/eval_2012-04-17_17-55-32_224.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/eval_2012-04-17_17-55-41_544.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set8/eval_2012-04-17_17-56-18_811.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-42-25_555.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-42-38_492.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-42-38_492.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-43-00_612.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-43-00_612.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-43-17_962.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-43-17_962.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-43-30_578.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-43-30_578.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-44-02_937.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/2012-04-19_17-44-02_937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/eval_2012-04-19_17-42-25_555.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/eval_2012-04-19_17-42-38_492.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/eval_2012-04-19_17-43-00_612.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/eval_2012-04-19_17-43-17_962.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/eval_2012-04-19_17-43-30_578.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DIQ_Part1/set9/eval_2012-04-19_17-44-02_937.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_data/image.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/removed_noise.png" afterPath="$PROJECT_DIR$/result/removed_noise.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +272,7 @@
       <file leaf-file-name="contour.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contour.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="203">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -26,12 +281,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="104">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metric.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/metric.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="583">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,6 +322,7 @@
       <list>
         <option value="$PROJECT_DIR$/scan.py" />
         <option value="$PROJECT_DIR$/new.py" />
+        <option value="$PROJECT_DIR$/metric.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -109,7 +379,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.metric">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,6 +393,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text_extraction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="metric" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text_extraction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metric.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,16 +448,18 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.main" />
       <item index="1" class="java.lang.String" itemvalue="Python.new" />
       <item index="2" class="java.lang.String" itemvalue="Python.scan" />
+      <item index="3" class="java.lang.String" itemvalue="Python.metric" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.new" />
-        <item index="2" class="java.lang.String" itemvalue="Python.scan" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.metric" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.new" />
+        <item index="3" class="java.lang.String" itemvalue="Python.scan" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +478,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1920" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8019587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41349292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -214,7 +504,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -232,7 +524,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -240,7 +534,7 @@
     <entry file="file://$PROJECT_DIR$/new.py" />
     <entry file="file://$PROJECT_DIR$/contour.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="203">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -250,9 +544,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="104">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
