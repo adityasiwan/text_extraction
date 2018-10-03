@@ -1,0 +1,257 @@
+-----------------------------------------
+     803   Characters
+     655   Errors
+   18.43%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   18.43%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     363      291        1      655   Unmarked
+     363      291        1      655   Total
+
+   Count   Missed   %Right
+     144       52    63.89   ASCII Spacing Characters
+      28       26     7.14   ASCII Special Symbols
+      30       30     0.00   ASCII Digits
+      55       49    10.91   ASCII Uppercase Letters
+     546      497     8.97   ASCII Lowercase Letters
+     803      654    18.56   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      34        0   {Yours sincerely<\n>Drum...}-{}
+      27        0   {Research (USA) Inc.<\n>...}-{M}
+      15        0   {(204) 488-0013<\n>}-{FII}
+      15        0   {the U.S.A.<\n>For }-{<95>*#«*« 9*t m}
+      14        0   {York, NY 10022}-{lift}
+      14        0   {a non-resident}-{«N<«NIIIII}
+      11        0   {retirement.}-{§#<95>!#}
+      10        0   {Gertenbach}-{LAT}
+      10        0   {appreciate}-{*»»*<95>*!«**}
+      10        0   {courtesies}-{MMf MfMM}
+      10        0   {particular}-{*******}
+      10        0   {throughout}-{m<i|»«i}
+       9        0   {1992<\n>Dear}-{f>tt}
+       9        0   {T.R. When}-{f«*<95>»}
+       9        0   {Winnipeg,}-{<97>» ®}
+       9        0   {rd Avenue}-{ll}
+       8        0   {Carol in}-{9%m%4m}
+       8        0   {February}-{m§}
+       8        0   {I hope, }-{}
+       8        0   {Manitoba}-{**}
+       8        0   {Presiden}-{*n#*uN*}
+       8        0   {Waverley}-{m}
+       8        0   {dent<\n>The}-{Wii}
+       8        0   {e and to}-{}
+       8        0   {he Board}-{lii}
+       8        0   {r.Robert}-{UII}
+       8        0   {support.}-{»»»»<95>*%«}
+       7        0   {Bob,<\n>It}-{<*§»}
+       7        0   {Tobacco}-{W}
+       7        0   {around }-{}
+       7        0   {da next}-{MHiMf}
+       7        0   {earning}-{T«IIII|}
+       7        0   {you.<\n>We}-{fm}
+       6        0   { assoc}-{uu}
+       6        0   {Counci}-{t«l}
+       6        0   {Joyce,}-{m}
+       6        0   {a long}-{|MN|}
+       6        0   {appoin}-{}
+       6        0   {have g}-{tlft}
+       6        0   {my be }-{}
+       6        0   {o real}-{«#i}
+       6        0   {proble}-{}
+       6        0   {your e}-{}
+       5        0   {Phone}-{FM}
+       5        0   {a way}-{mmmi}
+       5        0   {and I}-{S}
+       5        0   {ember}-{}
+       5        0   {forts}-{mm}
+       5        0   {happy}-{HM}
+       5        0   {money}-{«M#F}
+       5        0   {ndeed}-{ <95>*#}
+       5        0   {s you}-{**}
+       5        0   {shown}-{MI}
+       5        0   {thank}-{mm}
+       5        0   {was f}-{l}
+       5        0   {will,}-{mm}
+       4        0   { for}-{»}
+       4        0   { ten}-{*J}
+       4        0   { you}-{l}
+       4        0   {Pres}-{IN'i}
+       4        0   {and,}-{m#*}
+       4        0   {ated}-{u}
+       4        0   {both}-{T}
+       4        0   {ere }-{}
+       4        0   {find}-{*}
+       4        0   {here}-{*}
+       4        0   {is s}-{}
+       4        0   {nge }-{iii}
+       4        0   {reet}-{mmW*}
+       4        0   {shal}-{ti«i}
+       4        0   {ter<\n>}-{«* }
+       4        0   {wish}-{«<95>*}
+       4        0   {with}-{T}
+       4        0   {your}-{fMt}
+       3        0   { le}-{}
+       3        0   {174}-{mm}
+       3        0   {28,}-{l#}
+       3        0   {Sep}-{i}
+       3        0   {and}-{Ml}
+       3        0   {and}-{M}
+       3        0   {any}-{m}
+       3        0   {his}-{*}
+       3        0   {or }-{i}
+       3        0   {o}-{#}
+       3        0   {pas}-{}
+       3        0   {rst}-{t**}
+       3        0   {the}-{**«}
+       3        0   {to }-{I}
+       3        0   {ven}-{}
+       3        0   {yea}-{}
+       3        0   {you}-{9«i}
+       3        0   {you}-{MH}
+       3        0   {you}-{TM}
+       3        0   {you}-{f**}
+       2        0   { 3}-{IA}
+       2        0   {R3}-{S}
+       2        0   {as}-{*}
+       2        0   {as}-{*§}
+       2        0   {ed}-{*#}
+       2        0   {ew}-{»}
+       2        0   {fu}-{t*}
+       2        0   {ha}-{vp}
+       2        0   {he}-{*«}
+       2        0   {he}-{m%}
+       2        0   {he}-{}
+       2        0   {in}-{HI}
+       2        0   {is}-{»*}
+       2        0   {me}-{**}
+       2        0   {or}-{ V}
+       2        0   {to}-{m$}
+       2        0   {wr}-{«*}
+       2        0   {ze}-{**}
+       1        0   {1}-{}
+       1        0   {C}-{c}
+       1        0   {F}-{M}
+       1        0   {I}-{f}
+       1        0   {I}-{t}
+       1        0   {S}-{i}
+       1        0   {a}-{I}
+       1        0   {d}-{}
+       1        0   {e}-{#}
+       1        0   {e}-{w}
+       1        0   {e}-{}
+       1        0   {h}-{}
+       1        0   {n}-{*}
+       1        0   {r}-{}
+       1        0   {s}-{}
+       1        0   {}-{«}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       3        0   {o}-{#}
+       1        0   {C}-{c}
+       1        0   {F}-{M}
+       1        0   {I}-{f}
+       1        0   {I}-{t}
+       1        0   {S}-{i}
+       1        0   {a}-{I}
+       1        0   {e}-{#}
+       1        0   {e}-{w}
+       1        0   {n}-{*}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {R3}-{S}
+       2        0   {as}-{*}
+       2        0   {ew}-{»}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {as}-{*§}
+       2        0   {ed}-{*#}
+       2        0   {fu}-{t*}
+       2        0   {ha}-{vp}
+       2        0   {he}-{*«}
+       2        0   {he}-{m%}
+       2        0   {in}-{HI}
+       2        0   {is}-{»*}
+       2        0   {me}-{**}
+       2        0   {or}-{ V}
+       2        0   {to}-{m$}
+       2        0   {wr}-{«*}
+       2        0   {ze}-{**}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       3        0   {o}-{#}
+       2        0   {I}-{f | t}
+       2        0   {e}-{# | w}
+       1        0   {C}-{c}
+       1        0   {F}-{M}
+       1        0   {S}-{i}
+       1        0   {a}-{I}
+       1        0   {n}-{*}
+
+   Count   Missed   %Right
+      20        9    55.00   {<\n>}
+     124       43    65.32   { }
+       2        2     0.00   {(}
+       2        2     0.00   {)}
+      10        9    10.00   {,}
+       2        2     0.00   {-}
+      12       11     8.33   {.}
+       7        7     0.00   {0}
+       5        5     0.00   {1}
+       5        5     0.00   {2}
+       3        3     0.00   {3}
+       3        3     0.00   {4}
+       1        1     0.00   {7}
+       3        3     0.00   {8}
+       3        3     0.00   {9}
+       3        3     0.00   {A}
+       3        3     0.00   {B}
+       3        3     0.00   {C}
+       2        2     0.00   {D}
+       3        3     0.00   {F}
+       1        1     0.00   {G}
+       1        1     0.00   {H}
+       8        6    25.00   {I}
+       1        1     0.00   {J}
+       1        0   100.00   {L}
+       3        1    66.67   {M}
+       2        1    50.00   {N}
+       3        3     0.00   {P}
+       4        4     0.00   {R}
+       4        4     0.00   {S}
+       4        4     0.00   {T}
+       2        2     0.00   {U}
+       4        4     0.00   {W}
+       3        3     0.00   {Y}
+      43       42     2.33   {a}
+      10       10     0.00   {b}
+      12       12     0.00   {c}
+      20       20     0.00   {d}
+      75       74     1.33   {e}
+       8        5    37.50   {f}
+       6        6     0.00   {g}
+      27       27     0.00   {h}
+      33       22    33.33   {i}
+       2        2     0.00   {k}
+      17       11    35.29   {l}
+      10        7    30.00   {m}
+      42       41     2.38   {n}
+      49       49     0.00   {o}
+      14       14     0.00   {p}
+      46       45     2.17   {r}
+      27       26     3.70   {s}
+      48       29    39.58   {t}
+      21       21     0.00   {u}
+       5        4    20.00   {v}
+      10        9    10.00   {w}
+       1        1     0.00   {x}
+      19       19     0.00   {y}
+       1        1     0.00   {z}

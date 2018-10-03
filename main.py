@@ -9,12 +9,12 @@ output = "result/"
 img = cv2.imread(path + 'image.jpg')
 
 # Convert to gray
-img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+# img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 # Remove noise
-kernel = np.ones((1, 1), np.uint8)
-img = cv2.dilate(img, kernel, iterations=1)
-img = cv2.erode(img, kernel, iterations=1)
+# kernel = np.ones((1, 1), np.uint8)
+# img = cv2.dilate(img, kernel, iterations=1)
+# img = cv2.erode(img, kernel, iterations=1)
 
 # Write image after removed noise
 cv2.imwrite(output + "removed_noise.png", img)
