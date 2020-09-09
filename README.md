@@ -36,4 +36,4 @@ The dataset used in this project is included in the `DIQ_Part1` directory.
 ### Deliverables:
 
 * [Main Code](./main.py)
-* [report (html version)](./report.html)
+* [report (pdf version)](./report.pdf)
