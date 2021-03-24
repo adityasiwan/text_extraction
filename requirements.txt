@@ -23,7 +23,7 @@ python-dateutil==2.6.0
 PyWavelets==1.0.1
 PyYAML==3.12
 regex==2018.8.29
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.10
 scikit-image==0.14.1
 scipy==1.1.0
